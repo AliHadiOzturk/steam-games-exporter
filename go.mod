@@ -1,4 +1,4 @@
-module game-importer
+module game-exporter
 
 go 1.22.3
 
